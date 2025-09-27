@@ -1,0 +1,6 @@
+channel: stable
+addons:
+  media-proxy:
+    repository: stuartparmenter/media-proxy-addon
+    target: .
+    image: ghcr.io/stuartparmenter/{arch}-media-proxy-addon
