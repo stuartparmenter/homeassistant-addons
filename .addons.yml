@@ -4,3 +4,7 @@ addons:
     repository: stuartparmenter/media-proxy-addon
     target: .
     image: ghcr.io/stuartparmenter/{arch}-media-proxy-addon
+  rtl433:
+    repository: stuartparmenter/rtl433-addon
+    target: .
+    image: ghcr.io/stuartparmenter/{arch}-rtl433-addon
