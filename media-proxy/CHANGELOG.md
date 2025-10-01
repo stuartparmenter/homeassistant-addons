@@ -1,4 +1,4 @@
 ### Changes
-* Codenotary CAS actually doesn't work or do anything in 2025, taking it out of our config
+* YouTube fixes + caching for loops
 
-**Full Changelog**: https://github.com/stuartparmenter/media-proxy-addon/compare/v0.4.3...v0.4.4
+**Full Changelog**: https://github.com/stuartparmenter/media-proxy-addon/compare/v0.4.4...v0.5.0
