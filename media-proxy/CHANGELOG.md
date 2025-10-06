@@ -1,5 +1,4 @@
 ### Changes
-* Built-in placeholder image support
-* Code cleanup
+* Improve content type detection for selecting image vs video path
 
-**Full Changelog**: https://github.com/stuartparmenter/media-proxy-addon/compare/v0.5.0...v0.5.5
+**Full Changelog**: https://github.com/stuartparmenter/media-proxy-addon/compare/v0.5.5...v0.5.6
