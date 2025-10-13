@@ -1,5 +1,5 @@
 name: Media Proxy
-version: 0.5.6
+version: 0.5.7
 slug: media_proxy
 description: WebSocket-controlled media proxy that outputs DDP (UDP)
 url: https://github.com/stuartparmenter/media-proxy
@@ -10,6 +10,7 @@ image: ghcr.io/stuartparmenter/{arch}-media-proxy-addon
 startup: services
 init: false
 host_network: true
+homeassistant_api: true
 panel_icon: mdi:video-wireless
 map:
 - addon_config
