@@ -13,7 +13,7 @@ jobs:
     name: Update repository
     steps:
       - name: 🚀 Run Repository Updater
-        uses: hassio-addons/repository-updater@v1.3.0
+        uses: hassio-addons/repository-updater@v2.0.1
         with:
           addon: ${{ github.event.client_payload.addon }}
           repository: ${{ github.repository }}
