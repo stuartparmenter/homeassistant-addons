@@ -1,5 +1,5 @@
 channel: stable
-addons:
+apps:
   media-proxy:
     repository: stuartparmenter/media-proxy-addon
     target: .
